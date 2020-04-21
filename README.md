@@ -14,4 +14,5 @@ This guide is to help new developers contribute to ongoing projects
 - Install Docker for your OS:
   - [Windows](https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
   - [Mac](https://download.docker.com/mac/stable/Docker.dmg)
+  - [Linux (ubuntu)](https://docs.docker.com/engine/install/ubuntu/)
 - Getting Started [Docs](https://docs.docker.com/get-started/)
