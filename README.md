@@ -1,12 +1,10 @@
-# NodeGG
-## Developer Orientation
+# DEVMOI
+> Developer Orientation
+## Introduction
 This guide is to help new developers contribute to ongoing projects
 
 ### Communication Platforms
-> [Discord](https://discord.gg/atuZfDJ)
-
-### Design tools and applications to download
-You are more than welcome to use your favorite text editor. In addition to any project specific tools that you may have to download, it is important to have tools **figma**(https://www.figma.com/downloads/) and **zeplin**(https://support.zeplin.io/en/articles/244698-downloading-mac-and-windows-apps). These tools are used by our graphic designers to help us visualize our applications before actual implementation commences. 
+> [Discord](https://discord.gg/DnbkrC8)
 
 ### Developer Tools
 
